@@ -1,6 +1,7 @@
-# Simple NGINX server to serve autoindexed hierarchy of directories
+# NGINX-indexer
+## Simple NGINX is a simple solution to serve autoindexed hierarchy of directories
 
-# TODO: 
-1. Build the container with script build.sh
-2. Run the example with script run-example.sh
-3. Goto http://localhost:8080
+## How To:
+1. Build the container with the `build.sh` script.
+2. Run the example with the `run-example.sh` script.
+3. Go to [http://localhost:8080](http://localhost:8080) in your web browser.

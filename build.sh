@@ -1,2 +1,2 @@
 
-docker build -t nginx-indexer:$(cat ./version) src
+docker build -t saveugene/nginx-indexer:$(cat ./version) src
